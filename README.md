@@ -1,8 +1,9 @@
-# Hi there 👋
-I’m Ashish, a Software Development, Full Stack Web Development enthusiast!
+# 👋 Hi, I’m Ashish!  
 
-- 🌱 Currently learning: C++, Python, Data Structures & Algorithms
-- 💬 Ask me about: Python, C++
-- 📫 How to reach me: ashish.career28@gmail.com
+💻 Enthusiast in **Software Development** & **Full Stack Web Development**  
+🌱 Currently learning: **C++, Python, Data Structures & Algorithms**  
+💬 Ask me about: **Python, C++, SQL basics**  
+📂 Building: **Mini-projects in Python & Web Dev**  
+📫 How to reach me: **ashish.career28@gmail.com**  
 
-- ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
+⭐ *“Building strong foundations today for industry-ready skills tomorrow.”*  
